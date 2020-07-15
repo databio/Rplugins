@@ -1,0 +1,13 @@
+Package: pluginHost
+Type: Package
+Title: Demonstrate how to write R plugins
+Version: 0.4.2
+Date: 2019-04-15
+Authors@R: c(person("Nathan", "Sheffield", email = "nathan@code.databio.org",
+    role = c("aut", "cre")))
+Maintainer: Nathan Sheffield <nathan@code.databio.org>
+Description: Plugins
+VignetteBuilder: knitr
+Encoding: UTF-8
+License: GPL-3
+RoxygenNote: 7.1.0
