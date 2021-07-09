@@ -1,6 +1,6 @@
 # Rplugins demo packages
 
-This repo demonstrates how to write simple R plugins. There are 2 packages here, a host package (the one that will run the plugin), and the plugin package.
+This repo demonstrates how to write simple R plugins. There are 2 R packages here, a host package (the one that will run the plugin), and the plugin package.
 
 The host package has a function, that would be run by a user. It does whatever the host package should do. It also runs a plugin function, if one exists.
 
